@@ -1,3 +1,3 @@
 Rem is a distributed messaging system, using in enterprise.
 
-I will writing in golang!
+I will writing it in golang!
